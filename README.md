@@ -1,4 +1,4 @@
-# Rural-Emergency-Healthcare-Allocation-System
+# Rural Emergency Healthcare Allocation System
 
 Rural regions within a radius of 10 km around Waknaghat often face challenges in accessing timely healthcare due to limited hospital capacity and significant distances from major medical centers. Managing emergency cases efficiently becomes difficult when beds, doctors, and resources are constrained. In such semi-rural environments, logical prioritization and allocation of patients based on proximity and severity become critical to preventing delays in treatment.
 
