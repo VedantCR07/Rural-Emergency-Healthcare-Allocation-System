@@ -1,38 +1,63 @@
 HospitalID, Name, Location, Distance, AvailableBeds, TotalBeds, Emergency24x7
 
-H001, Ayurvedic Dispensary Waknaghat, Waknaghat, -, -, -, No
-H002, JUIT Dispensary, Waknaghat, -, 4, 4, Yes
-H003, Civil Hospital Kandaghat, Kandaghat, 0, 50, -, Yes
-H004, Kandaghat Medical Centre Main Bazar, Kandaghat, 1, -, -, Unknown
-H005, Ayurvedic Health Centre Kandaghat, Kandaghat, 1.2, -, -, No
-H006, Ayurvedic Health Centre Shoghi, Shoghi, 0, -, -, No
-H007, JP Hospital Solan, Solan, -, -, -, Yes
-H008, Nimbus Hospital Solan, Solan, -, -, -, Yes
-H009, Shri Balmukand Apex Hospital, Solan, -, -, -, Yes
-H010, Government Regional Hospital Solan, Solan, -, -, 200, Yes
-H011, Nav Jeevan Hospital, Solan, -, -, 15, Yes
-H012, Elcura Healthcare, Solan, -, -, -, Yes
-H013, Sai Sanjivni Hospital, Solan, -, -, 52, Yes
-H014, Bansal Orthopaedic and General Hospital, Solan, -, -, 20, Yes
-H015, Shiva Hospital Solan, Solan HP, -, -, -, YesSolan
-H016, City Hospital Solan, Solan, -, -, -, Unknown
-H017, Govt. Multi Speciality Hospital Chambaghat, Solan, -, -, 200, Yes
-H018, Maharishi Markandeshwar Hospital Solan, Solan, -, -, 720, Yes
-H019, Aastha Hospital Solan, Solan, -, -, -, No
-H020, Aastha Hospital and Surgical Centre, Solan, -, -, -, No
-H021, Ayurvedic Hospital Solan, Solan HP, -, -, -, No
-H022, Civil Hospital Arki, Solan, -, -, -, Yes
-H023, Civil Hospital Chail, Solan, -, -, -, Yes
-H024, Civil Hospital Darlaghat, Solan, -, -, -, Yes
-H025, Civil Hospital Dharampur, Solan, -, -, 100, Yes
-H026, Civil Hospital Kunihar, Solan, -, -, 50, Yes
-H027, Civil Hospital Nalagarh, Solan, -, -, -, Yes
-H028, Civil Hospital Sayari, Solan, -, -, -, Yes
-H029, Drishti Eye Hospital, Solan, -, -, -, Yes
-H030, Rahi Care Kidney Hospital, Solan, -, -, -, Yes
-H031, Grover Eye & ENT Hospital, Solan, -, -, -, Yes
-H032, Dr Mohindru Dental Hospital, Solan, -, -, -, Yes
-H033, Health Sub-Center Domeher, Domeher,
-H034, Health Sub-Center Anji, Anji Sunaran
-H035, Health Sub-Center Laga, Laga
-H035, Health Sub-Center Bisha, Bisha
+H001, Ayurvedic Dispensary Waknaghat, Waknaghat, -, -, No
+H002, JUIT Dispensary, Waknaghat, 4, 4, Yes
+H003, Civil Hospital Kandaghat, Kandaghat, 0, 50, Yes
+H004, Kandaghat Medical Centre Main Bazar, Kandaghat, -, -, Unknown
+H005, Ayurvedic Health Centre Kandaghat, Kandaghat, -, -, No
+H006, Ayurvedic Health Centre Shoghi, Shoghi, -, -, No
+H007, JP Hospital Solan, Solan, -, -, Yes
+H008, Nimbus Hospital Solan, Solan, -, -, Yes
+H009, Shri Balmukand Apex Hospital, Solan, -, -, Yes
+H010, Government Regional Hospital Solan, Solan, -, 200, Yes
+H011, Nav Jeevan Hospital, Solan, -, 15, Yes
+H012, Elcura Healthcare, Solan, -, -, Yes
+H013, Sai Sanjivni Hospital, Solan, -, 52, Yes
+H014, Bansal Orthopaedic and General Hospital, Solan, -, 20, Yes
+H015, Shiva Hospital Solan, Solan HP, -, -, Yes
+H016, City Hospital Solan, Solan, -, -, Unknown
+H017, Govt. Multi Speciality Hospital Chambaghat, Solan, -, 200, Yes
+H018, Maharishi Markandeshwar Hospital Solan, Solan, -, 720, Yes
+H019, Aastha Hospital Solan, Solan, -, -, No
+H020, Aastha Hospital and Surgical Centre, Solan, -, -, No
+H021, Ayurvedic Hospital Solan, Solan HP, -, -, No
+H022, Civil Hospital Arki, Solan, -, 50, Yes
+H023, Civil Hospital Chail, Solan, -, 30, Yes
+H024, Civil Hospital Darlaghat, Solan, -, -, Yes
+H025, Civil Hospital Dharampur, Solan, -, 100, Yes
+H026, Civil Hospital Kunihar, Solan, -, 50, Yes
+H027, Civil Hospital Nalagarh, Solan, -, -, Yes
+H028, Civil Hospital Sayari, Solan, -, -, Yes
+H029, Drishti Eye Hospital, Solan, -, -, Yes
+H030, Rahi Care Kidney Hospital, Solan, -, -, Yes
+H031, Grover Eye & ENT Hospital, Solan, -, -, Yes
+H032, Dr Mohindru Dental Hospital, Solan, -, -, Yes
+H033, Health Sub-Center Domeher, Domeher, -, -, -
+H034, Health Sub-Center Anji, Anji Sunaran, -, -, -
+H035, Health Sub-Center Laga, Laga, -, -, -
+H036, Health Sub-Center Bisha, Bisha, -, -, -
+H037, Indira Gandhi Medical College & Hospital (IGMC),Shimla -, -, Yes
+H038, Deen Dayal Upadhyay Zonal Hospital,Shimla, -, -, Yes
+H039, Kamla Nehru State Hospital, Shimla, -, -, Yes
+H040, Government Dental College & Hospital, Shimla, -, -, No
+H041, Simla Sanitarium & Hospital, Shimla, -, -, Yes
+H042, Tenzin Hospital, Panthaghati, -, -, Yes
+H043, Sparsh Multispeciality Hospital, Tutikandi, -, -, Yes
+H044, Aastha Hospital & Pediatric Centre, Panthaghati, -, -, Yes
+H045, Shiva Hospital, Shimla, -, -, Yes
+H046, Tara Hospital, Shimla, -, -, Yes
+H047, Haritara Hospital & Pediatric Centre, Kasumpti, -, -, Yes
+H048, Sri Ram Hospital,Kaithu, -, -, Yes
+H049, S M Eye Hospital, Shimla, -, -, No
+H050, Mahatma Gandhi Medical Services Complex, Tutikandi, -, -, Yes
+H051, Regional Hospital Solan, Solan, -, 200, Yes
+H052, Civil Hospital Kandaghat, Kandaghat, -, -, Yes
+H053, Civil Hospital Dharampur, Dharampur, -, -, Yes
+H054, Civil Hospital Chail, Chail, -, 30, Yes
+H055, Civil Hospital Kunihar, Kunihar, -, 30, Yes
+H056, Civil Hospital Sayari, near Arki, -, -, Yes
+H057, Primary Health Centre Nagaun, Nagaun, -, -, -
+H058, Primary Health Centre Barog, Barog, -, -, -
+H059, Primary Health Centre Kaithlighat, Kaithlighat, -, -, -
+H060, Primary Health Centre Taradevi, Taradevi, -, -, -
+H061, Primary Health Centre Chail, Chail, -, -, -
